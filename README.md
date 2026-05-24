@@ -1,3 +1,10 @@
+---
+title: Prompt Gallery
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # Prompt Gallery
 
 A multiplayer browser party game where friends enter an AI art museum, look at a real
