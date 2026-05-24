@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Node / frontend
+node_modules/
+frontend/dist/
+
+# Env & secrets
+.env
+.env.local
+*.key
+
+# Generated / transfer artifacts
+patches/
+*.patch
+*.zip
+*.7z
+*.rar
+
+# CI workflows are intentionally not used for this project
+.github/workflows/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
